@@ -17,6 +17,7 @@ body {
        background-color: #F353EC;
        overflow: hidden;
        border-bottom: 5px solid 70FFFA;
+       opacity: 65%;
     }
     
     
@@ -37,6 +38,10 @@ body {
     .navbar-default a:hover {
         background-color: #F695F2;
         color: FEF2FE;
+    }
+
+    .jumbotron {
+        background-color: #F353EC;
     }
 
     @media only screen and (max-width: 768px) {
